@@ -1,0 +1,40 @@
+Date 27/07/2025
+completed till 55.40 
+---------------------
+
+08/08/2025
+01:09:25 completed 
+
+
+06/08/2025
+01:29:38 completed
+
+17/08/2025
+01:48:41 completed 
+
+24/08/2025
+02:09:00 completed
+
+30/08/2025
+npm install bcryptjs cloudinary cors dotenv express jsonwebtoken mongoose socket.io
+
+bcrypt :- Implmenting hash feature
+cloudinary :- to upload chat images and user profile images 
+cors :- to connect frontend with backend 
+express :- create backend server
+jsonwebtoken :- to authenticate the user using this token
+mongoose :- to connect project with mongoDB database
+socket.io :- integrating chat feature in realtime messaging
+nodemon package used to start the server automatically when we made any changes in the backend
+//to run server npm run server
+
+02:29:17 Completed 
+
+31/08/2025
+03:32:04 Completed
+
+06/09/2025  //UPDATE Profile Section 04:06:00 - 04:32:27
+04:32:27 completed 
+
+14/07/2025
+05:30:26 completed 
